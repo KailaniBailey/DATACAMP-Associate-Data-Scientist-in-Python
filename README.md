@@ -1,4 +1,4 @@
-# DATACAMP Associate Data Scientist in Python
+# DataCamp Associate Data Scientist in Python
 > "Learn Python for data science and gain the career-building skills you need to succeed as a data scientist, from data manipulation to machine learning!<br><br>
 In this track, you’ll learn how this versatile language allows you to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher.<br><Br>
 Starting with the Python essentials for data science, you’ll work through interactive exercises that test your abilities. You’ll get hands-on with some of the most popular Python libraries for data science, including pandas, Seaborn, Matplotlib, scikit-learn, and many more.<br><br>
