@@ -6,7 +6,7 @@ As you progress, you’ll work with real-world datasets to learn the statistical
 Start this track, grow your data science skills, and begin your journey to confidently pass the Associate Data Scientist in Python certification and thrive as a data scientist."
 
 ## Table of Contents
-- Introduction to Python
+01. [Introduction to Python](https://github.com/KailaniBailey/DATACAMP-Associate-Data-Scientist-in-Python/blob/main/01.%20Introduction%20to%20Python/README.md)
 - Intermediate Python
 - Project: Investigating Netflix Movies
 - Data Manipulation with Pandas
