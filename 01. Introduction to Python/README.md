@@ -1,5 +1,5 @@
-# Introduction to Python
-1. Python Basics
-2. Python Lists
-3. Functions and Packages
-4. NumPy
+# 01. Introduction to Python
+- Python Basics
+- Python Lists
+- Functions and Packages
+- NumPy
