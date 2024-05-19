@@ -7,7 +7,7 @@ Start this track, grow your data science skills, and begin your journey to confi
 
 ## Table of Contents
 01. [Introduction to Python](https://github.com/KailaniBailey/DATACAMP-Associate-Data-Scientist-in-Python/blob/main/01.%20Introduction%20to%20Python/README.md)
-- Intermediate Python
+02. [Intermediate Python](https://github.com/KailaniBailey/DATACAMP-Associate-Data-Scientist-in-Python/tree/main/02.%20Intermediate%20Python)
 03. Project: [Investigating Netflix Movies](https://github.com/KailaniBailey/DATACAMP-Associate-Data-Scientist-in-Python/tree/main/03.%20Project%3A%20Investigating%20Netflix%20Movies)
 04. [Data Manipulation with Pandas](https://github.com/KailaniBailey/DATACAMP-Associate-Data-Scientist-in-Python/tree/main/04.%20Data%20Manipulation%20with%20Pandas)
 05. [Project: Exploring NYC Public School Test Result Scores](https://github.com/KailaniBailey/DATACAMP-Associate-Data-Scientist-in-Python/tree/main/05.%20Project:%20Exploring%20NYC%20Public%20School%20Test%20Result%20Scores)
